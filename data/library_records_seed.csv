@@ -1,0 +1,7 @@
+book_id,title,author,category,year,status,borrower_id,due_date
+B001,The Pragmatic Programmer,Andrew Hunt and David Thomas,Software,1999,available,,
+B002,Clean Code,Robert C Martin,Software,2008,borrowed,M014,2026-09-05
+B003,Introduction to Algorithms,Thomas H Cormen et al,Computer Science,2022,available,,
+B004,The Design of Everyday Things,Don Norman,Design,2013,borrowed,M022,2026-08-29
+B005,Deep Work,Cal Newport,Productivity,2016,available,,
+B006,Computer Networks,Andrew S Tanenbaum and David Wetherall,Networking,2021,available,,

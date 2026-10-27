@@ -1,0 +1,38 @@
+# Compiled programs
+library_manager
+library_manager.exe
+unit_tests
+unit_tests.exe
+a.out
+*.exe
+*.out
+
+# Build artifacts
+*.o
+*.obj
+*.d
+*.gch
+build/
+
+# Data the program creates while running (your own library, not the sample)
+library_data/
+*.bak
+*.tmp
+
+# Debug / sanitizer / profiling output
+*.dSYM/
+*.pdb
+*.log
+core
+core.*
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
